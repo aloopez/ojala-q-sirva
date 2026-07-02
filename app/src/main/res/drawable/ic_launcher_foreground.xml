@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Círculo sutil de fondo opcional -->
+    <path
+        android:fillColor="#1AFFFFFF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+
+    <!-- L estilizada -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,35 v35 h20 v-5 h-15 v-30 z" />
+
+    <!-- Flecha hacia arriba "Level UP" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,70 v-25 l-8,8 l-3,-3 l13,-13 l13,13 l-3,3 l-8,-8 v25 z" />
+</vector>

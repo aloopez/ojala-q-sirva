@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917214632844",
+    "project_id": "proyectomoviles-2d170",
+    "storage_bucket": "proyectomoviles-2d170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917214632844:android:9c477cd34a14d9273c14a9",
+        "android_client_info": {
+          "package_name": "com.example.proyectomovileslevelup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAVsBxrZHRMUcaRYRS3SQXWwU1569Wi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
